@@ -20,4 +20,4 @@ cc -Wall -Wextra -Werror *.c
 ```
 ## 🤝 Contributing
 
-While this is a personal practice repository, I welcome discussions about alternative approaches or optimizations. Feel free to raech me out.
+While this is a personal practice repository, I welcome discussions about alternative approaches or optimizations. Feel free to reach me out.
